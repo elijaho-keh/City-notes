@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  background-color: gold;
+  color: blue;
+  line-height: 1.6;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+h1 {
+  color: rgb(0, 26, 255);
+  font-family: Georgia, serif;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: 1.75rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+article {
+  background-color: white;
+  padding: 24px;
+  margin-bottom: 24px;
+  border-radius: 12px;
+}
+header img {
+    background-color: white;
+    padding: 24px;
+    border-radius: 12px;
+    box-sizing: border-box;
+    }
